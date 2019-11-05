@@ -1,5 +1,3 @@
-# [Demo](https://creatorbon.github.io/task_labi_dev/)
-
 # Task Labi.dev
 
 # Start App
